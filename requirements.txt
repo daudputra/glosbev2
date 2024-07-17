@@ -1,0 +1,5 @@
+scrapy==2.11.0
+typing==3.7.4.3
+requests==2.31.0
+fake_useragent==1.5.1
+s3fs==2023.12.2
